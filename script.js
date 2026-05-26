@@ -52,7 +52,7 @@ const projectsData = {
     "galerie": ["photo/Hayden-1.png", "photo/Hayden-2.png", "photo/Hayden-3.png", "photo/Hayden-4.png", "photo/Hayden-5.png",],
     "lienProjet": "https://www.instagram.com/reel/DFXog5_NVnc/",
     "categories": ["design"],
-    "competences": ["Blender", "Modélisation"],
+    "competences": ["Gestion de projet", "Création d'identité visuelle"],
   },
   "mon-rigolo-et-moi": {
     "titre": "19 Ans du Ty Coz",
@@ -61,7 +61,7 @@ const projectsData = {
     "galerie": [],
     "lienProjet": "https://www.instagram.com/reel/DL-MGALNr_R/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     "categories": ["video", "acting"],
-    "competences": ["Réalisation", "Acting"],
+    "competences": ["Gestion de projet", "Cadrage","Montage vidéo", "création de contenu plurimédia"],
   },
 
 };
